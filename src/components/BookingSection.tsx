@@ -11,7 +11,7 @@ export const BookingSection: React.FC = () => {
       
       <div className="scroll-reveal" style={{ marginTop: '24px' }}>
         <a 
-          href="https://www.plannetmarketing.com/en-us/MorganR" 
+          href="https://morganrutkowski.inteletravel.com" 
           target="_blank" 
           rel="noopener noreferrer" 
           className="btn-primary"
