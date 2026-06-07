@@ -115,7 +115,7 @@ export const AboutCoach: React.FC = () => {
 
       <div className="stat-row scroll-reveal">
         <StatCounter value="50+" label="Countries Solo" />
-        <StatCounter value="16+" label="Years in Federal Policy" />
+        <StatCounter value="40+" label="Collegiate Runner. Certified Trainer & Spin Instructor." />
         <StatCounter value="TOP 2%" label="of the Company" />
         <StatCounter value="10K" label="Instagram Followers" />
       </div>
