@@ -32,7 +32,7 @@ export const StepByStep: React.FC = () => {
       id: 'step-4',
       num: '04',
       title: 'Train, Travel and Keep Scaling',
-      description: 'With income that doesn\'t require clocking in, you can train for the races you want, run the trails you want, cycle the routes you want, and take the trips you want. Your business grows even when you are on the road.'
+      description: 'With income that doesn’t require clocking in, you can train for the races on your list, run the trails you’ve been saving, cycle the routes that call to you, and take the trips you’ve been putting off. Your business grows even when you are on the road.'
     },
     {
       id: 'step-5',
