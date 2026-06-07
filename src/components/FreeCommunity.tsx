@@ -6,19 +6,19 @@ export const FreeCommunity: React.FC = () => {
       <div className="community-box scroll-reveal">
         <h2>Still Not Sure?</h2>
         <p>Not ready to enroll just yet? That is completely okay.</p>
-        <p>Join my <strong>FREE Community</strong> where adventure travelers, runners, cyclists, and fitness lovers share tips, wins, and real strategies for building income while living the life they love.</p>
-        <p>We celebrate each other's miles on the trail and in the business. Come see what is possible before you commit.</p>
-        <p><strong>Click below to join the community.</strong></p>
+        <p>Here’s a quick 60 second quiz that helps you see if the travel industry might actually match your personality, goals, and interests.</p>
+        <p>So if even a small part of you is curious, I’d definitely check it out. It’s a really helpful resource and gives you a better idea of what this business is actually like.</p>
+        <p><strong>You can take the free quiz here:</strong></p>
         
         <div>
           <a 
-            href="https://www.earnintravel.com" 
+            href="https://myidecide.net/SGS0QA" 
             className="btn-primary" 
             style={{ marginTop: '12px' }} 
             target="_blank"
             rel="noopener noreferrer"
           >
-            JOIN THE FREE COMMUNITY →
+            TAKE THE FREE QUIZ →
           </a>
         </div>
       </div>
