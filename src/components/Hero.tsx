@@ -10,7 +10,7 @@ export const Hero: React.FC = () => {
         Work <span className="hl-white">Less.</span>
       </h1>
       <p className="hero-sub animate-fade-up delay-200">
-        The proven travel business plan built for solo adventure travelers who want financial freedom, time freedom, and a life they never need a vacation from.
+        Watch this quick overview to see exactly how the travel and affiliate business model works and decide if it's the right fit for your life and goals.
       </p>
       <div className="hero-tagline animate-fade-up delay-300">
         ✈️ If your brain is screaming, <em>"OMG this is me!"</em> your thumb knows what to do…
